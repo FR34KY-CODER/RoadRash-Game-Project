@@ -1,10 +1,6 @@
 <h1 align="center">🏍️ RoadRash Game Project</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j5QcmXoFWlV6M/giphy.gif" width="300"/>
-</p>
-
-<p align="center">
   <b>A 2D Unity-based adrenaline rush</b> — weave through traffic, boost your bike, and bring back RoadRash nostalgia ⚡
 </p>
 
@@ -54,15 +50,6 @@ git clone https://github.com/FR34KY-CODER/RoadRash-Game-Project.git
 2. Open it in Unity (2021+ recommended).
 
 3. Hit Play ▶️ — and get ready to ride!
-
----
-
-## 🖼️ Sneak Peek
-
-<p align="center">
-  <img src="assets/gameplay.gif" width="400"/>
-  <br><i>Boost. Drift. Dodge.</i>
-</p>
 
 ---
 
